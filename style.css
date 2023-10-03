@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: 5px;
+   
+   
+   
+}
+img{
+    height: 150px;
+    width: 70px;
+   justify-content: center;
+   padding: 10px;
+   background-color: rgb(152, 151, 151);
+   
+    
+}
+.card-body{
+    justify-content: center;
+    background-color:rgb(158, 156, 156);
+    color: black;
+    font-size: medium;
+    align-content: center;
+}
+.card{
+    margin-top: 6px;
+    margin-left: 6px;
+    border-radius: 4px;
+    align-content: center;
+    
+}
+.card-footer{
+    background-color: rgb(155, 153, 153);
+    align-content: center;
+  
+   
+}
